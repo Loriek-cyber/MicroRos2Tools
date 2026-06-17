@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/microros_uwb_project.bin'
+elf = 'build/microros_uwb_project.elf'

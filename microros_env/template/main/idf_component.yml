@@ -1,0 +1,5 @@
+dependencies:
+  espressif/micro_ros_espidf_component:
+    version: "^2.0.0"
+  idf:
+    version: ">=5.0"
